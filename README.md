@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Doğu
+Software Engineering ,cybersecurity operations, backend applications, and real-world products.
 
-<!--
-**douyigit/douyigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 What I Do
+⚙️ Backend development (Node.js, Python, Spring Boot)
+🎨 Full-stack web development (PHP,custom dashboards & admin panels)
+🤖 Automation systems (APIs, AI integrations)
+📊 Data scraping & processing systems (Python)
+💻 Desktop & custom software solutions
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+Languages: Python, C++ , C# , Java 
+Backend: Node.js (Express) • Spring Boot • REST APIs • Webhooks
+Automation: AI Integrations • Workflow Systems
+Mobile: Swift 
+Data & Scraping: Web Scraping • Data Processing • API Integrations
+Databases: MySQL • MongoDB • Firebase
+DevOps & Tools: Linux • Cloudflare • Git
